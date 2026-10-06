@@ -1,0 +1,2 @@
+pymobiledevice3==11.23.0
+customtkinter==5.2.2
